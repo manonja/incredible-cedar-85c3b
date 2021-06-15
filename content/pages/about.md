@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: 
+subtitle: ''
 img_path: images/about.jpg
 seo:
   title: About Me
