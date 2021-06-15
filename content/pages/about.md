@@ -31,7 +31,7 @@ seo:
 layout: page
 ---
 
-**Manon Jacquin** is a writer based in Amsterdam. She has a background in International Law where she graduated from Aix-Marseille University (France) and the University of Ottawa (Canada). She's from a tiny beach town in the South of France where she comes back from time to time to enjoy the sun, the beach, the mountainns, and of course the food! After graduating from 
+**Manon Jacquin** is a writer based in Amsterdam. She has a background in International Law where she graduated from Aix-Marseille University (France) and the University of Ottawa (Canada). She's from a tiny beach town in the South of France where she comes back from time to time to enjoy the sun, the beach, the mountainns, and of course the food! After graduating from a Master Degree in Internatioal Law from the University of Ottawa and 
 
 His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
