@@ -31,7 +31,7 @@ seo:
 layout: page
 ---
 
-**Manon Jacquin** is a writer based in Amsterdam. She has a background in International Law where she graduated from Aix-Marseille University (France) and the University of Ottawa (Canada). She's from a tiny beach town in the South of France where she comes back from time to time to enjoy the sun, the sand and the mountains.    from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Manon Jacquin** is a writer based in Amsterdam. She has a background in International Law where she graduated from Aix-Marseille University (France) and the University of Ottawa (Canada). She's from a tiny beach town in the South of France where she comes back from time to time to enjoy the sun, the beach and the mountains.    from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
 His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
