@@ -37,7 +37,7 @@ She is passionate about traveling, storytelling, entrepreneurship, lifestyle and
 
 But, overall, she does not like to define herself - it always felt counter intuitive. Aren't we constantly evolving, moving and changing? She hopes we all do! 
 
->You are an aperture through which the universe is looking at and exploring itself. <cite>Neil Gaiman</cite>
+>You are an aperture through which the universe is looking at and exploring itself. <cite>Alan Watts</cite>
 
 
 *Thank You for reading!*
