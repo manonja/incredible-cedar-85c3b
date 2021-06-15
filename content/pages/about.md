@@ -33,9 +33,8 @@ layout: page
 
 **Manon Jacquin** is a writer, photographer and software engineer based in Amsterdam. She grew up by the beach  in the South of France where she comes back from time to time to enjoy the sun, the beach, the mountainns, and of course the food! After graduating from a Master Degree in Internatioal Law from the University of Ottawa and Aix-Marseille University, she worked as a legal attache in New York for the French Mission at the United Nations. Drown by her crestivity and curiosity, she learned how to code and became a Software Engineer after a few years.
 
-She loves to follow her heart and go for  
+In the meantime, she developed a passion for 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
