@@ -31,7 +31,7 @@ seo:
 layout: page
 ---
 
-**Manon Jacquin** is a writer, photographer and software engineer based in Amsterdam. She grew up by a beach town in the South of France where she comes back from time to time to enjoy the sun, the beach, the mountainns, and of course the food! After graduating from a Master Degree in Internatioal Law from the University of Ottawa and Aix-Marseille University, she worked as a legal attache in New York for the French Mission at the United Nations. Drown by her crestivity and curiosity, she learned how to code and became a Software Engineer after a few years.
+**Manon Jacquin** is a writer, photographer and software engineer based in Amsterdam. She comes from a beach town in the South of France where she comes back from time to time to enjoy the sun, the beach, the mountainns, and of course the food! After graduating from a Master Degree in Internatioal Law from the University of Ottawa and Aix-Marseille University, she worked as a legal attache in New York for the French Mission at the United Nations. Drown by her crestivity and curiosity, she learned how to code and became a Software Engineer after a few years.
 
 She settled in many cities around the world, such as Sao Paulo, Lima, New York, San Francisco, Montreal, London, Paris and now Amsterdam. Obviously, she loves to travel! She's passionate about holistic healing, and photography writing, yoga and creativity are an integrated part of her life. This website 
 
