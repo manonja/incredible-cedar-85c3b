@@ -38,6 +38,5 @@ She settled in many cities around the world, such as Sao Paulo, Lima, New York, 
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
 *Thank You for reading!*
