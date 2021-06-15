@@ -35,7 +35,7 @@ layout: page
 
 She is passionate about traveling, storytelling, entrepreneurship, lifestyle and holistic healing. She lived in many cities around the world, such as Sao Paulo, Lima, New York, San Francisco, Montreal, London, Paris and now Amsterdam. She's an adventure and nature advocate believing in a more sustainable and healed world. 
 
-But, overall, she does not like to define herself - it always felt counter intuitive since we are constantly changing, evolving and flowing. 
+But, overall, she does not like to define herself - it always felt counter intuitive. Aren't we constantly evolving
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
